@@ -10,6 +10,12 @@ namespace CleanCode
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Calculator");
+        }
+
+        public int add(int a, int b)
+        {
+            return a + b; 
         }
     }
 }

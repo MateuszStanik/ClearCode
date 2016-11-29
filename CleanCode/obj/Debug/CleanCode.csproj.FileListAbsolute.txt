@@ -1,0 +1,5 @@
+<<<<<<< HEAD
+C:\Users\Lab_admin\Desktop\ClearCode-master\ClearCode\CleanCode\bin\Debug\CleanCode.exe.config
+=======
+c:\users\lab_admin\documents\visual studio 2015\Projects\CleanCode\CleanCode\bin\Debug\CleanCode.exe.config
+>>>>>>> c2f46e4b0984a62b106618b703b944621040da6d

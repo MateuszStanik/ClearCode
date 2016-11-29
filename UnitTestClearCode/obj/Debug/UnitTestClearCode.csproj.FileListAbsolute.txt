@@ -1,0 +1,9 @@
+C:\Users\Lab_admin\Desktop\ClearCode-master\ClearCode\UnitTestClearCode\bin\Debug\UnitTestClearCode.dll
+C:\Users\Lab_admin\Desktop\ClearCode-master\ClearCode\UnitTestClearCode\bin\Debug\UnitTestClearCode.pdb
+C:\Users\Lab_admin\Desktop\ClearCode-master\ClearCode\UnitTestClearCode\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Lab_admin\Desktop\ClearCode-master\ClearCode\UnitTestClearCode\bin\Debug\nunit.framework.dll
+C:\Users\Lab_admin\Desktop\ClearCode-master\ClearCode\UnitTestClearCode\bin\Debug\nunit.framework.xml
+C:\Users\Lab_admin\Desktop\ClearCode-master\ClearCode\UnitTestClearCode\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+C:\Users\Lab_admin\Desktop\ClearCode-master\ClearCode\UnitTestClearCode\obj\Debug\UnitTestClearCode.csprojResolveAssemblyReference.cache
+C:\Users\Lab_admin\Desktop\ClearCode-master\ClearCode\UnitTestClearCode\obj\Debug\UnitTestClearCode.dll
+C:\Users\Lab_admin\Desktop\ClearCode-master\ClearCode\UnitTestClearCode\obj\Debug\UnitTestClearCode.pdb

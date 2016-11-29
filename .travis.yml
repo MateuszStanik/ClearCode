@@ -1,0 +1,9 @@
+language: csharp
+solution: ./CleanCode/CleanCode.sln
+install:
+- sudo apt-get install -y gtk-sharp2
+- nuget restore ./CleanCode/CleanCode.sln
+- nuget install NUnit.Runners -Version 2.6.4 -OutputDirectory testrunner
+script:
+- xbuild /p:Configuration=Release ./CleanCode/CleanCode.sln
+- mono ./testrunner/NUnit.Runners.2.6.4/tools/nunit-console.exe ./CleanCode/CleanCode/bin/Release/CleanCode.dll

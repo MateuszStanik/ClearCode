@@ -1,9 +1,9 @@
 language: csharp
-solution: ./UnitTestClearCode/UnitTestClearCode.sln
+solution: ./CleanCode.sln
 install:
 - sudo apt-get install -y gtk-sharp2
-- nuget restore ./UnitTestClearCode/UnitTestClearCode.sln
+- nuget restore ./CleanCode.sln
 - nuget install NUnit.Runners -Version 2.6.4 -OutputDirectory testrunner
 script:
-- xbuild /p:Configuration=Release ./UnitTestClearCode/UnitTestClearCode.sln
-- mono ./testrunner/NUnit.Runners.2.6.4/tools/nunit-console.exe ./UnitTestClearCode/UnitTestClearCode/bin/Release/UnitTest1.dll
+- xbuild /p:Configuration=Release ./CleanCode.sln
+- mono ./testrunner/NUnit.Runners.2.6.4/tools/nunit-console.exe ./UnitTestClearCode/bin/Release/UnitTest1.dll

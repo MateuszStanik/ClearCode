@@ -8,6 +8,14 @@ namespace CleanCode
 {
     class Calculator
     {
+        int div(int a, int b)
+        {
+            return a / b;
+        }
 
+        double div(double a, double b)
+        {
+            return a / b;
+        }
     }
 }

@@ -10,6 +10,7 @@ namespace CleanCode
     {
         static void Main(string[] args)
         {
+
             Console.WriteLine("Calculator");
         }
 

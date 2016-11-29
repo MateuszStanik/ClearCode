@@ -10,7 +10,12 @@ namespace CleanCode
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Calculator");
+        }
 
+        public int mul(int a, int b)
+        {
+            return a * b;
         }
     }
 }

@@ -6,11 +6,8 @@ using System.Threading.Tasks;
 
 namespace CleanCode
 {
-    class Program
+    class Calculator
     {
-        static void Main(string[] args)
-        {
 
-        }
     }
 }
